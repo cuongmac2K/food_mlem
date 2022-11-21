@@ -1,0 +1,3 @@
+MONGODB_CONFIG :
+  ENDPOINT: "mongodb+srv://maccuong:9abeY2fkBe38w%40w@foodmlem.yvzkcin.mongodb.net/?retryWrites=true&w=majority"
+  DATABASE: "food_db"
