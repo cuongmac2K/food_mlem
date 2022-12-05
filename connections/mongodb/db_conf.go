@@ -107,6 +107,7 @@ func CreateAcountAutomatic(n int) {
 		pass_word := "Hama!@# " + strconv.Itoa(i)
 		doc := bson.D{
 			{"role", role},
+			{"status", 1},
 			{"user_name", user_name},
 			{"pass_word", pass_word},
 		}
